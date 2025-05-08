@@ -1,6 +1,7 @@
 //scanner lets you read input from the user
 import java.util.Scanner;
 
+//scanner class
 public class calculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
