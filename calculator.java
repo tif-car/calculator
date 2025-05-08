@@ -67,7 +67,7 @@ public class calculator {
                 System.out.println(num1 + " " + op + " " + num2 + " = " + result);
             }
 
-            // Ask if the user wants to continue
+            //To ask if the user wants to continue
             System.out.print("Do you want to calculate again? (y/n): ");
             char choice = sc.next().toLowerCase().charAt(0);
             if (choice != 'y') {
